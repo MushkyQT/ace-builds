@@ -350,7 +350,6 @@ ace.config.setModuleUrl('ace/snippets/objectivec', require('file-loader?esModule
 ace.config.setModuleUrl('ace/snippets/ocaml', require('file-loader?esModule=false!./src-noconflict/snippets/ocaml.js'))
 ace.config.setModuleUrl('ace/snippets/pascal', require('file-loader?esModule=false!./src-noconflict/snippets/pascal.js'))
 ace.config.setModuleUrl('ace/snippets/perl', require('file-loader?esModule=false!./src-noconflict/snippets/perl.js'))
-ace.config.setModuleUrl('ace/snippets/perl6', require('file-loader?esModule=false!./src-noconflict/snippets/perl6.js'))
 ace.config.setModuleUrl('ace/snippets/pgsql', require('file-loader?esModule=false!./src-noconflict/snippets/pgsql.js'))
 ace.config.setModuleUrl('ace/snippets/php', require('file-loader?esModule=false!./src-noconflict/snippets/php.js'))
 ace.config.setModuleUrl('ace/snippets/php_laravel_blade', require('file-loader?esModule=false!./src-noconflict/snippets/php_laravel_blade.js'))
