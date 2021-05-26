@@ -132,7 +132,6 @@ ace.config.setModuleUrl('ace/mode/objectivec', require('file-loader?esModule=fal
 ace.config.setModuleUrl('ace/mode/ocaml', require('file-loader?esModule=false!./src-noconflict/mode-ocaml.js'))
 ace.config.setModuleUrl('ace/mode/pascal', require('file-loader?esModule=false!./src-noconflict/mode-pascal.js'))
 ace.config.setModuleUrl('ace/mode/perl', require('file-loader?esModule=false!./src-noconflict/mode-perl.js'))
-ace.config.setModuleUrl('ace/mode/perl6', require('file-loader?esModule=false!./src-noconflict/mode-perl6.js'))
 ace.config.setModuleUrl('ace/mode/pgsql', require('file-loader?esModule=false!./src-noconflict/mode-pgsql.js'))
 ace.config.setModuleUrl('ace/mode/php', require('file-loader?esModule=false!./src-noconflict/mode-php.js'))
 ace.config.setModuleUrl('ace/mode/php_laravel_blade', require('file-loader?esModule=false!./src-noconflict/mode-php_laravel_blade.js'))
